@@ -1,0 +1,21 @@
+20 3
+MCL, Manchester City
+LIV, Liverpool
+CHE, Chelsea
+MUN, Manchester United
+ARS, Arsenal
+TOT, Tottenham Hotspur
+LEI, Leicester City
+EVE, Everton
+AVL, Aston Villa
+WHU, West Ham United
+WOL, Wolverhampton Wanderers
+NEW, Newcastle United
+BHA, Brighton & Hove Albion
+CRY, Crystal Palace
+BUR, Burnley
+SOU, Southampton
+BRE, Brentford
+LEE, Leeds United
+FUL, Fulham
+NOT, Nottingham Forest
